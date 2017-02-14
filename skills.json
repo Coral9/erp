@@ -1,0 +1,24 @@
+{
+	"skills": [{
+		'name': 'php',
+		'level': [
+			'basic': 'basic',
+			'medium' : 'medium',
+			'high' : 'high'
+			],	
+
+	}]
+}
+{
+
+	"employee" : [
+		{
+			"name" : "Kate" ,
+			"skills": [{"php" : "advanced", "python": "beginner"}]
+		},
+		{
+			"name": "Merxh",
+			"skills": [{"python" : "advanced"}]
+		}
+	]
+}
