@@ -1,14 +1,4 @@
-{
-	"skills": [{
-		'name': 'php',
-		'level': [
-			'basic': 'basic',
-			'medium' : 'medium',
-			'high' : 'high'
-			],	
 
-	}]
-}
 {
 
 	"employee" : [
